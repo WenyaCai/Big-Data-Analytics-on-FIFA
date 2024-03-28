@@ -185,8 +185,3 @@ For this version, when reading from the database, remember to have your own prop
 - Task IV (Combine Task I, II and III) Cloud version:
 There are some slight changes in the cloud version of the previous three tasks. Instead of reading from local directory or postgres database, we are reading from the cloud storage in GCP. You will need to create a bucket and upload the csv or truncated version data I previously mentioned. In addition when reading from bucket, you will need you own bucket path instead of mine. For the cloud version, I am using the n2d-standard-2 machine with 2 worker nodes. 
 
-
-## Video Demonstration
-This section contains more detailed walkthrough of my code including showing database in pgadmin and etc.
-https://cmu.box.com/s/ery6ed2lnls415vj45vw68oxsb5c2ggt
-
